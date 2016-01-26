@@ -2,4 +2,5 @@ div{
 	width: 210px;
 	height: 250px;
 	border: 2px solid orange;
+	display: inline-block;
 	}
